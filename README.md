@@ -3,12 +3,12 @@
 ![image](https://user-images.githubusercontent.com/75434423/180440242-d5a34c91-f2e5-4ee9-9956-dfd2c6d909c6.png)
 
 
-##Introduction
+## Introduction
 Danny seriously loves Japanese food so in the beginning of 2021, he decides to embark upon a risky venture and opens up a cute little restaurant that sells his 3 favourite foods: sushi, curry and ramen.
 
 Danny’s Diner is in need of your assistance to help the restaurant stay afloat - the restaurant has captured some very basic data from their few months of operation but have no idea how to use their data to help them run the business.
 
-##Problem Statement
+## Problem Statement
 Danny wants to use the data to answer a few simple questions about his customers, especially about their:
 
 - visiting patterns,
@@ -24,6 +24,6 @@ The data set contains the following 3 tables which you may refer to the relation
 - members
 - menu
 
-![image](https://user-images.githubusercontent.com/75434423/180439879-79471133-0d05-4c58-8750-fd0c7254ebf0.png)
+![image](https://user-images.githubusercontent.com/75434423/180441371-803a52c4-e8ce-4f92-ba8e-09a3ce6a2625.png)
 
 The dataset is queried using MySQL server.
