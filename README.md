@@ -20,9 +20,9 @@ He plans on using these insights to help him decide whether he should expand the
 
 The data set contains the following 3 tables which you may refer to the relationship diagram below to understand the connection.
 
-sales
-members
-menu
+- sales
+- members
+- menu
 
 ![image](https://user-images.githubusercontent.com/75434423/180439879-79471133-0d05-4c58-8750-fd0c7254ebf0.png)
 
